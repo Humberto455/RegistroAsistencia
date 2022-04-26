@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickJump", "QuickJump.csproj", "{7CC39A7E-AA6F-44F4-B309-B94F48FE2399}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CC39A7E-AA6F-44F4-B309-B94F48FE2399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC39A7E-AA6F-44F4-B309-B94F48FE2399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC39A7E-AA6F-44F4-B309-B94F48FE2399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC39A7E-AA6F-44F4-B309-B94F48FE2399}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {963EB025-79F1-4552-A618-A686041B2CD8}
+	EndGlobalSection
+EndGlobal
